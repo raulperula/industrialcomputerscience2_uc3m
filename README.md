@@ -1,9 +1,9 @@
 Industrial Computer Science II UC3M
 ==============================
 
-C++ examples of the subject Industrial Computer Science II.
-Bachelor's Degree in Industrial Electronics and Automation
-University Carlos III of Madrid.
+C++ examples of the subject Industrial Computer Science II. <br>
+Bachelor's Degree in Industrial Electronics and Automation <br>
+University Carlos III of Madrid. <br>
 Leganes, Madrid, Spain.
 
 <b>Contact info:</b>
